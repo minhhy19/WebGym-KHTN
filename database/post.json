@@ -1,0 +1,9 @@
+{"_id":{"$oid":"600bf1a81c9e591c5c35306a"},"group":"1","imageUrl":"f1.jpg"}
+{"_id":{"$oid":"600bf1b21c9e591c5c35306b"},"group":"1","imageUrl":"f2.jpg"}
+{"_id":{"$oid":"600bf1bf1c9e591c5c35306c"},"group":"1","imageUrl":"f3.jpg"}
+{"_id":{"$oid":"600bf1cf1c9e591c5c35306d"},"group":"2","imageUrl":"f3.jpg"}
+{"_id":{"$oid":"600bf1d91c9e591c5c35306e"},"group":"2","imageUrl":"f2.jpg"}
+{"_id":{"$oid":"600bf1e41c9e591c5c35306f"},"group":"2","imageUrl":"f1.jpg"}
+{"_id":{"$oid":"600bf2051c9e591c5c353070"},"group":"3","imageUrl":"f2.jpg"}
+{"_id":{"$oid":"600bf21a1c9e591c5c353071"},"group":"3","imageUrl":"f3.jpg"}
+{"_id":{"$oid":"600bf2281c9e591c5c353072"},"group":"3","imageUrl":"f1.jpg"}

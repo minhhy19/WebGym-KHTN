@@ -1,0 +1,32 @@
+<a class="btn btn-primary" href="/client/add">Add Client</a>
+<div class="card">
+    <h5 class="card-header">Manage Client</h5>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Comment</th>
+                    <th>Image</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each arr}}
+                <tr>
+                    <td>{{this._id}}</td>
+                    <td>{{this.name}}</td>
+                    <td>{{this.comment}}</td>
+                    <td>
+                        <img width="70" src="/upload/{{this.imageUrl}}">
+                    </td>
+                    <td>
+                        <a href="/client/edit/{{this._id}}">Edit</a>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+</div>

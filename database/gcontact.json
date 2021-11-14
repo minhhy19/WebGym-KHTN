@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6009a23540cd5034ecc0db0a"},"cid":"600999938055fc17fc8b024c","group":"Broome St,10002,Canada New York City 90210."}
+{"_id":{"$oid":"6009a24a40cd5034ecc0db0b"},"cid":{"$oid":"600999aa8055fc17fc8b024d"},"group":"+(000) 123 4565 32"}
+{"_id":{"$oid":"6009a25640cd5034ecc0db0c"},"cid":{"$oid":"600999aa8055fc17fc8b024d"},"group":"+(010) 123 455 354"}
+{"_id":{"$oid":"6009a29d40cd5034ecc0db0d"},"cid":{"$oid":"600999bb8055fc17fc8b024e"},"group":"info@example1.com"}
+{"_id":{"$oid":"6009a2df40cd5034ecc0db0f"},"cid":{"$oid":"600999bb8055fc17fc8b024e"},"group":"info@example2.com"}

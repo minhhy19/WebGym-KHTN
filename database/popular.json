@@ -1,0 +1,250 @@
+{"_id":{"$oid":"600fee1b5c58c43b642d7e3e"},"Country":"Denmark","Popularity":100}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e3f"},"Country":"Switzerland","Popularity":96}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e40"},"Country":"Liechtenstein","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e41"},"Country":"New Zealand","Popularity":87}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e42"},"Country":"Australia","Popularity":86}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e43"},"Country":"United States","Popularity":84}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e44"},"Country":"Jersey","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e45"},"Country":"Canada","Popularity":70}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e46"},"Country":"St. Barthélemy","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e47"},"Country":"Isle of Man","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e48"},"Country":"Cayman Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e49"},"Country":"Samoa","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4a"},"Country":"Ireland","Popularity":58}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4b"},"Country":"Guam","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4c"},"Country":"Guadeloupe","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4d"},"Country":"Czechia","Popularity":52}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4e"},"Country":"United Kingdom","Popularity":49}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e4f"},"Country":"Antigua & Barbuda","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e50"},"Country":"Philippines","Popularity":49}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e51"},"Country":"Faroe Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e52"},"Country":"Singapore","Popularity":47}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e53"},"Country":"Germany","Popularity":47}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e54"},"Country":"Bermuda","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e55"},"Country":"United Arab Emirates","Popularity":45}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e56"},"Country":"Hungary","Popularity":43}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e57"},"Country":"Seychelles","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e58"},"Country":"Luxembourg","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e59"},"Country":"Greenland","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5a"},"Country":"Martinique","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5b"},"Country":"Iceland","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5c"},"Country":"Netherlands","Popularity":38}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5d"},"Country":"Slovakia","Popularity":37}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5e"},"Country":"South Africa","Popularity":36}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e5f"},"Country":"Romania","Popularity":36}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e60"},"Country":"Malta","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e61"},"Country":"Portugal","Popularity":35}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e62"},"Country":"Estonia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e63"},"Country":"Puerto Rico","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e64"},"Country":"Austria","Popularity":34}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e65"},"Country":"British Virgin Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e66"},"Country":"Belgium","Popularity":33}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e67"},"Country":"Falkland Islands (Islas Malvinas)","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e68"},"Country":"St. Kitts & Nevis","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e69"},"Country":"Mauritius","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6a"},"Country":"Bahamas","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6b"},"Country":"Brunei","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6c"},"Country":"Curaçao","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6d"},"Country":"Jamaica","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6e"},"Country":"Andorra","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e6f"},"Country":"Hong Kong","Popularity":30}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e70"},"Country":"Solomon Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e71"},"Country":"St. Helena","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e72"},"Country":"Barbados","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e73"},"Country":"U.S. Virgin Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e74"},"Country":"Réunion","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e75"},"Country":"St. Vincent & Grenadines","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e76"},"Country":"Trinidad & Tobago","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e77"},"Country":"Norway","Popularity":28}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e78"},"Country":"Latvia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e79"},"Country":"France","Popularity":28}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7a"},"Country":"Caribbean Netherlands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7b"},"Country":"Finland","Popularity":27}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7c"},"Country":"Aruba","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7d"},"Country":"Bhutan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7e"},"Country":"Guernsey","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e7f"},"Country":"New Caledonia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e80"},"Country":"Tonga","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e81"},"Country":"Cyprus","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e82"},"Country":"Croatia","Popularity":26}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e83"},"Country":"Gibraltar","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e84"},"Country":"Maldives","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e85"},"Country":"French Polynesia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e86"},"Country":"Botswana","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e87"},"Country":"French Guiana","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e88"},"Country":"Qatar","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e89"},"Country":"Lesotho","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8a"},"Country":"Poland","Popularity":23}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8b"},"Country":"Sweden","Popularity":23}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8c"},"Country":"Northern Mariana Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8d"},"Country":"Vanuatu","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8e"},"Country":"Malaysia","Popularity":22}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e8f"},"Country":"Bahrain","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e90"},"Country":"Brazil","Popularity":22}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e91"},"Country":"Spain","Popularity":22}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e92"},"Country":"Ethiopia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e93"},"Country":"Mongolia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e94"},"Country":"Grenada","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e95"},"Country":"Moldova","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e96"},"Country":"Djibouti","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e97"},"Country":"Madagascar","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e98"},"Country":"Lebanon","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e99"},"Country":"North Macedonia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9a"},"Country":"Italy","Popularity":19}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9b"},"Country":"San Marino","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9c"},"Country":"Sri Lanka","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9d"},"Country":"India","Popularity":19}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9e"},"Country":"Zimbabwe","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7e9f"},"Country":"Guyana","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea0"},"Country":"Suriname","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea1"},"Country":"Cape Verde","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea2"},"Country":"Pakistan","Popularity":18}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea3"},"Country":"Laos","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea4"},"Country":"Panama","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea5"},"Country":"Afghanistan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea6"},"Country":"Belize","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea7"},"Country":"Gambia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea8"},"Country":"Kosovo","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ea9"},"Country":"Greece","Popularity":17}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eaa"},"Country":"Nepal","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eab"},"Country":"St. Lucia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eac"},"Country":"St. Martin","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ead"},"Country":"Costa Rica","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eae"},"Country":"Bulgaria","Popularity":16}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eaf"},"Country":"Rwanda","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb0"},"Country":"Colombia","Popularity":16}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb1"},"Country":"Oman","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb2"},"Country":"Bosnia & Herzegovina","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb3"},"Country":"Somalia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb4"},"Country":"Namibia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb5"},"Country":"Eswatini","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb6"},"Country":"Bangladesh","Popularity":15}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb7"},"Country":"Albania","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb8"},"Country":"Mexico","Popularity":15}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eb9"},"Country":"Malawi","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eba"},"Country":"Fiji","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ebb"},"Country":"Kuwait","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ebc"},"Country":"Papua New Guinea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ebd"},"Country":"Slovenia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ebe"},"Country":"Uruguay","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ebf"},"Country":"Kenya","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec0"},"Country":"Chile","Popularity":14}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec1"},"Country":"Serbia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec2"},"Country":"Myanmar (Burma)","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec3"},"Country":"Cuba","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec4"},"Country":"Turks & Caicos Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec5"},"Country":"Ghana","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec6"},"Country":"Macao","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec7"},"Country":"Senegal","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec8"},"Country":"Zambia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ec9"},"Country":"Liberia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eca"},"Country":"Tunisia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ecb"},"Country":"Guatemala","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ecc"},"Country":"Lithuania","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ecd"},"Country":"Cambodia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ece"},"Country":"Argentina","Popularity":12}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ecf"},"Country":"Turkey","Popularity":12}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed0"},"Country":"Honduras","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed1"},"Country":"Paraguay","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed2"},"Country":"Sint Maarten","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed3"},"Country":"Thailand","Popularity":12}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed4"},"Country":"Morocco","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed5"},"Country":"China","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed6"},"Country":"Vietnam","Popularity":12}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed7"},"Country":"Bolivia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed8"},"Country":"Mozambique","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ed9"},"Country":"Armenia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eda"},"Country":"Nicaragua","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7edb"},"Country":"El Salvador","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7edc"},"Country":"Ecuador","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7edd"},"Country":"Dominica","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ede"},"Country":"Åland Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7edf"},"Country":"Equatorial Guinea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee0"},"Country":"Nigeria","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee1"},"Country":"Montenegro","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee2"},"Country":"Venezuela","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee3"},"Country":"Saudi Arabia","Popularity":10}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee4"},"Country":"Peru","Popularity":10}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee5"},"Country":"Haiti","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee6"},"Country":"Uzbekistan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee7"},"Country":"Burundi","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee8"},"Country":"Timor-Leste","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ee9"},"Country":"Sierra Leone","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eea"},"Country":"Central African Republic","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eeb"},"Country":"Georgia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eec"},"Country":"Dominican Republic","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eed"},"Country":"Uganda","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eee"},"Country":"Cameroon","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eef"},"Country":"Jordan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef0"},"Country":"Angola","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef1"},"Country":"South Sudan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef2"},"Country":"Togo","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef3"},"Country":"Tanzania","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef4"},"Country":"Algeria","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef5"},"Country":"Côte d’Ivoire","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef6"},"Country":"Israel","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef7"},"Country":"Palestine","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef8"},"Country":"Gabon","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7ef9"},"Country":"Benin","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7efa"},"Country":"Azerbaijan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7efb"},"Country":"Egypt","Popularity":7}
+{"_id":{"$oid":"600fee1b5c58c43b642d7efc"},"Country":"Taiwan","Popularity":7}
+{"_id":{"$oid":"600fee1b5c58c43b642d7efd"},"Country":"Indonesia","Popularity":7}
+{"_id":{"$oid":"600fee1b5c58c43b642d7efe"},"Country":"Russia","Popularity":6}
+{"_id":{"$oid":"600fee1b5c58c43b642d7eff"},"Country":"Niger","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f00"},"Country":"Mauritania","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f01"},"Country":"Turkmenistan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f02"},"Country":"Burkina Faso","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f03"},"Country":"Syria","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f04"},"Country":"Congo - Kinshasa","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f05"},"Country":"Iraq","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f06"},"Country":"Western Sahara","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f07"},"Country":"Mayotte","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f08"},"Country":"South Korea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f09"},"Country":"Mali","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0a"},"Country":"Congo - Brazzaville","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0b"},"Country":"Guinea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0c"},"Country":"Kazakhstan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0d"},"Country":"Belarus","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0e"},"Country":"Kyrgyzstan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f0f"},"Country":"Libya","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f10"},"Country":"Ukraine","Popularity":3}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f11"},"Country":"Sudan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f12"},"Country":"Tajikistan","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f13"},"Country":"Yemen","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f14"},"Country":"Iran","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f15"},"Country":"Japan","Popularity":2}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f16"},"Country":"Montserrat","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f17"},"Country":"Svalbard & Jan Mayen","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f18"},"Country":"Palau","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f19"},"Country":"Cook Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1a"},"Country":"Marshall Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1b"},"Country":"Comoros","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1c"},"Country":"Micronesia","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1d"},"Country":"São Tomé & Príncipe","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1e"},"Country":"Anguilla","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f1f"},"Country":"American Samoa","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f20"},"Country":"Antarctica","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f21"},"Country":"French Southern Territories","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f22"},"Country":"Bouvet Island","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f23"},"Country":"Cocos (Keeling) Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f24"},"Country":"Christmas Island","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f25"},"Country":"Eritrea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f26"},"Country":"Guinea-Bissau","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f27"},"Country":"Heard & McDonald Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f28"},"Country":"British Indian Ocean Territory","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f29"},"Country":"Kiribati","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2a"},"Country":"Monaco","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2b"},"Country":"Norfolk Island","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2c"},"Country":"Niue","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2d"},"Country":"Nauru","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2e"},"Country":"Pitcairn Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f2f"},"Country":"North Korea","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f30"},"Country":"South Georgia & South Sandwich Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f31"},"Country":"St. Pierre & Miquelon","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f32"},"Country":"Chad","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f33"},"Country":"Tokelau","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f34"},"Country":"Tuvalu","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f35"},"Country":"U.S. Outlying Islands","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f36"},"Country":"Vatican City","Popularity":0}
+{"_id":{"$oid":"600fee1b5c58c43b642d7f37"},"Country":"Wallis & Futuna","Popularity":0}

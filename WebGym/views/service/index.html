@@ -1,0 +1,74 @@
+<div class="card">
+    <h5 class="card-header">Add Service</h5>
+    <form class="card-body" action="/service/add" method="post">
+        <div class="form-group">
+            <label>Title</label>
+            <input class="form-control" name="title" type="text">
+        </div>
+        <div class="form-group">
+            <label>Description</label>
+            <input class="form-control" name="description" type="text">
+        </div>
+        <div class="form-group">
+            <label>Class Icon</label>
+            <input class="form-control" name="icon" type="text">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Save changes</button>
+        </div>
+    </form>
+</div>
+
+
+<div class="card">
+    <h5 class="card-header">Manage Service</h5>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Is Right</th>
+                    <th>Icon</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each arr}}
+                <tr>
+                    <td>{{this._id}}</td>
+                    <td>{{this.title}}</td>
+                    <td>{{this.description}}</td>
+                    <td>
+                        <input class="c" type="checkbox" {{#if this.isright}}checked="checked"{{/if}} value="{{this._id}}" />
+                    </td>
+                    <td><span class="{{this.icon}}"></span></td>
+                    <td>
+                        <a href="/service/edit/{{this._id}}">Edit</a>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    window.onload = function() {
+        $('.c').change(function() {
+            var v = $(this).val();
+            console.log(v);
+            var url = '/service/checked'; 
+            if (!$(this).is(':checked')) {
+                $.post(url, {isright: false, vid: v}, (o) => {
+                    console.log(o);
+                });
+            } else {
+                $.post(url, {isright: true, vid: v}, (o) => {
+                    console.log(o);
+                });
+            }
+        });
+    } 
+</script>

@@ -1,0 +1,3 @@
+{"_id":{"$oid":"600999938055fc17fc8b024c"},"name":"map","icon":"fas fa-map-marker-alt"}
+{"_id":{"$oid":"600999aa8055fc17fc8b024d"},"name":"phone","icon":"fas fa-phone-volume"}
+{"_id":{"$oid":"600999bb8055fc17fc8b024e"},"name":"email","icon":"fas fa-at"}

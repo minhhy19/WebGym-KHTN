@@ -1,0 +1,13 @@
+<div class="card">
+    <h5 class="card-header">Edit Category</h5>
+    <form class="card-body" method="post">
+        <input type="hidden" name="id" value="{{obj._id}}">
+        <div class="form-group">
+            <label>Name</label>
+            <input class="form-control" name="name" type="text" value="{{obj.name}}">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Save changes</button>
+        </div>
+    </form>
+</div>

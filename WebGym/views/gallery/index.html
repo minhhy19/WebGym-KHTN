@@ -1,0 +1,34 @@
+<a class="btn btn-primary" href="/gallery/add">Add Gallery</a>
+<div class="card">
+    <h5 class="card-header">Manage Gallery</h5>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Kind</th>
+                    <th>Group</th>
+                    <th>Image</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each arr}}
+                <tr>
+                    <td>{{this._id}}</td>
+                    <td>{{this.title}}</td>
+                    <td>{{this.kind}}</td>
+                    <td>{{this.group}}</td>
+                    <td>
+                        <img width="70" src="/upload/{{this.imageUrl}}">
+                    </td>
+                    <td>
+                        <a href="/gallery/edit/{{this._id}}">Edit</a>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+</div>

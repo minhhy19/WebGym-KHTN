@@ -1,0 +1,30 @@
+<div class="card">
+    <h5 class="card-header">Edit Trainer</h5>
+    <form class="card-body" enctype="multipart/form-data" method="post">
+        <div class="form-group">
+            <label>Name</label>
+            <input class="form-control" name="name" type="text" value="{{obj.name}}">
+        </div>
+        <div class="form-group">
+            <label>Position</label>
+            <input class="form-control" name="position" type="text" value="{{obj.position}}">
+        </div>
+        <div class="form-group">
+            <label>Description</label>
+            <input class="form-control" name="description" type="text" value="{{obj.description}}">
+        </div>
+        <div class="form-group">
+            <label>Animation</label>
+            <input class="form-control" name="animation" type="text" value="{{obj.animation}}">
+        </div>
+        <div class="form-group">
+            <label>Image</label>
+            <input type="hidden" name="imageUrl" value="{{obj.imageUrl}}">
+            <img src="/upload/{{obj.imageUrl}}">
+            <input class="form-control" name="f" type="file">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Save changes</button>
+        </div>
+    </form>
+</div>

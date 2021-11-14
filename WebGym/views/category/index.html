@@ -1,0 +1,39 @@
+<div class="card">
+    <h5 class="card-header">Add Category</h5>
+    <form class="card-body" action="/category/add" method="post">
+        <div class="form-group">
+            <label>Name</label>
+            <input class="form-control" name="name" type="text">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Save changes</button>
+        </div>
+    </form>
+</div>
+
+
+<div class="card">
+    <h5 class="card-header">Manage Category</h5>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each arr}}
+                <tr>
+                    <td>{{this._id}}</td>
+                    <td>{{this.name}}</td>
+                    <td>
+                        <a href="/category/edit/{{this._id}}">Edit</a>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+</div>

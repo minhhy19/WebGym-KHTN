@@ -1,0 +1,4 @@
+{"_id":{"$oid":"60096c3ba62119161c2d35fa"},"name":"Sam Will","position":"Body Builder","description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum","imageUrl":"t1.jpg","animation":"fade-up"}
+{"_id":{"$oid":"60096c6f7a6f75087054df6e"},"name":"Sara Kent","position":"Fitness Trainer","description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum","imageUrl":"t2.jpg","animation":"fade-down"}
+{"_id":{"$oid":"60096c8c7a6f75087054df6f"},"name":"Rose Will","position":"Weight Trainer","description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum","imageUrl":"t3.jpg","animation":"fade-up"}
+{"_id":{"$oid":"60096ca37a6f75087054df70"},"name":"Max Will","position":"Body Builder","description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum","imageUrl":"t4.jpg","animation":"fade-down"}
